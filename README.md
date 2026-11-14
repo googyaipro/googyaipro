@@ -11,7 +11,7 @@ I design and build **production-grade autonomous AI agent systems, high-load Tel
 - **Backend & APIs:** Python 3.11+, FastAPI (async/await), Django, Celery, Redis, REST APIs, WebSockets.
 - **Frontend & Mobile UI:** Vue.js, React / Vite, WebGL Shaders (60 FPS real-time image processing), Telegram Mini Apps (TMA), Android WebView APK.
 - **Databases:** PostgreSQL (pgvector, partitioning, performance tuning), Redis, SQLite.
-- **DevSecOps & Infrastructure:** Docker, Docker Compose, Linux Hardening (Ubuntu/Debian), UFW, iptables, Fail2ban, CI/CD, 152-\u0424\u0417 Compliance, OWASP Top 10.
+- **DevSecOps & Infrastructure:** Docker, Docker Compose, Linux Hardening (Ubuntu/Debian), UFW, iptables, Fail2ban, CI/CD, Security Compliance, OWASP Top 10.
 - **Network & Tunneling:** Xray (VLESS-REALITY), AmneziaWG (DPI obfuscation), WireGuard.
 
 ---
