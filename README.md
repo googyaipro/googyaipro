@@ -18,15 +18,15 @@ I design and build **production-grade autonomous AI agent systems, high-load Tel
 
 ### :rocket: Featured Production Architectures
 
-- **[Beauty Care Platform](https://github.com/googyaipro/beauty_care)** \u2014 Multi-agent booking & schedule calendar platform with client CRM, webhook pipelines, and data protection.
-- **[YouTube Analytics & Trend Engine](https://github.com/googyaipro/youtube_analitics_platform_v2)** \u2014 Multi-tenant SaaS platform on FastAPI + PostgreSQL + Docker for viral scoring and automated Telegram reporting.
-- **[Blogger Agent MCP](https://github.com/googyaipro/blogger_agent)** \u2014 Autonomous multi-agent pipeline for cross-platform trend intelligence and content analysis.
-- **[VCc03 SEO Multi-Agent](https://github.com/Mux0moR/VCc03)** \u2014 Full-cycle technical SEO auditing & keyword research engine orchestrated with crewAI.
+- **[Beauty Care Platform](https://github.com/googyaipro/beauty_care)** -- Multi-agent booking & schedule calendar platform with client CRM, webhook pipelines, and data protection.
+- **[YouTube Analytics & Trend Engine](https://github.com/googyaipro/youtube_analitics_platform_v2)** -- Multi-tenant SaaS platform on FastAPI + PostgreSQL + Docker for viral scoring and automated Telegram reporting.
+- **[Blogger Agent MCP](https://github.com/googyaipro/blogger_agent)** -- Autonomous multi-agent pipeline for cross-platform trend intelligence and content analysis.
+- **[VCc03 SEO Multi-Agent](https://github.com/Mux0moR/VCc03)** -- Full-cycle technical SEO auditing & keyword research engine orchestrated with crewAI.
 
 ---
 
 ### :shield: Engineering Principles
-1. **Resilience & Idempotency:** Two-phase intent (`IN_FLIGHT` \u2192 `COMMITTED`) and pre-flight reconciliation to prevent duplicate operations during network failures.
+1. **Resilience & Idempotency:** Two-phase intent (`IN_FLIGHT` -> `COMMITTED`) and pre-flight reconciliation to prevent duplicate operations during network failures.
 2. **Zero-Hallucination Matrix:** Deterministic verification rules over raw LLM outputs for mission-critical industrial & financial workflows.
 3. **Turnkey Delivery:** All projects are delivered containerized in Docker, with complete test suites (`pytest`), admin manuals, and zero vendor lock-in.
 
