@@ -1,11 +1,11 @@
-# Hi there, I'm Igor Kramarenko \ud83d\udc4b
+# Hi there, I'm Igor Kramarenko :wave:
 ### Senior AI Systems Architect & Lead Automation Engineer (DevSecOps)
 
 I design and build **production-grade autonomous AI agent systems, high-load Telegram Mini Apps, and resilient SaaS backends** with enterprise-grade security and zero-hallucination architectures.
 
 ---
 
-### \ud83d\udee0 Tech Stack & Core Competencies
+### :hammer_and_wrench: Tech Stack & Core Competencies
 
 - **AI & Autonomous Agents:** Google ADK, OpenAI API, Anthropic Claude, crewAI, LangGraph, MCP (Model Context Protocol), RAG Pipelines (pgvector).
 - **Backend & APIs:** Python 3.11+, FastAPI (async/await), Django, Celery, Redis, REST APIs, WebSockets.
@@ -16,7 +16,7 @@ I design and build **production-grade autonomous AI agent systems, high-load Tel
 
 ---
 
-### \ud83d\ude80 Featured Production Architectures
+### :rocket: Featured Production Architectures
 
 - **[Beauty Care Platform](https://github.com/googyaipro/beauty_care)** \u2014 Multi-agent booking & schedule calendar platform with client CRM, webhook pipelines, and data protection.
 - **[YouTube Analytics & Trend Engine](https://github.com/googyaipro/youtube_analitics_platform_v2)** \u2014 Multi-tenant SaaS platform on FastAPI + PostgreSQL + Docker for viral scoring and automated Telegram reporting.
@@ -25,14 +25,14 @@ I design and build **production-grade autonomous AI agent systems, high-load Tel
 
 ---
 
-### \ud83d\udee1 Engineering Principles
+### :shield: Engineering Principles
 1. **Resilience & Idempotency:** Two-phase intent (`IN_FLIGHT` \u2192 `COMMITTED`) and pre-flight reconciliation to prevent duplicate operations during network failures.
 2. **Zero-Hallucination Matrix:** Deterministic verification rules over raw LLM outputs for mission-critical industrial & financial workflows.
 3. **Turnkey Delivery:** All projects are delivered containerized in Docker, with complete test suites (`pytest`), admin manuals, and zero vendor lock-in.
 
 ---
 
-### \ud83d\udceb Connect with Me
+### :mailbox: Connect with Me
 - **Telegram:** [@CyberPope](https://t.me/CyberPope)
 - **E-mail:** [googyaipro@gmail.com](mailto:googyaipro@gmail.com)
 - **Status:** Available for architectural consulting, enterprise AI bot development, and turnkey SaaS projects.
