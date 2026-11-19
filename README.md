@@ -1,4 +1,4 @@
-# Hi there, I'm Cyber Heart :wave:
+# Hi there, I'm Igor Cyber Heart :wave:
 ### Senior AI Systems Architect & Lead Automation Engineer (DevSecOps)
 
 I design and build **production-grade autonomous AI agent systems, high-load Telegram Mini Apps, and resilient SaaS backends** with enterprise-grade security and zero-hallucination architectures.
@@ -9,10 +9,19 @@ I design and build **production-grade autonomous AI agent systems, high-load Tel
 
 - **AI & Autonomous Agents:** Google ADK, OpenAI API, Anthropic Claude, crewAI, LangGraph, MCP (Model Context Protocol), RAG Pipelines (pgvector).
 - **Backend & APIs:** Python 3.11+, FastAPI (async/await), Django, Celery, Redis, REST APIs, WebSockets.
+- **Workflow Orchestration & Low-Code:** n8n (Self-hosted, complex AI pipelines), Supabase (pgvector, Auth), Dokploy, NocoDB, BPMN process modeling.
 - **Frontend & Mobile UI:** Vue.js, React / Vite, WebGL Shaders (60 FPS real-time image processing), Telegram Mini Apps (TMA), Android WebView APK.
 - **Databases:** PostgreSQL (pgvector, partitioning, performance tuning), Redis, SQLite.
-- **DevSecOps & Infrastructure:** Docker, Docker Compose, Linux Hardening (Ubuntu/Debian, RedHat/Fedora), iptables, Fail2ban, CI/CD, Security Compliance, OWASP Top 10.
+- **DevSecOps & Infrastructure:** Docker, Docker Compose, Linux Hardening (Ubuntu/Debian), UFW, iptables, Fail2ban, CI/CD, 152-\u0424\u0417 Compliance, OWASP Top 10.
 - **Network & Tunneling:** Xray (VLESS-REALITY), AmneziaWG (DPI obfuscation), WireGuard.
+
+---
+
+### :mortar_board: Verified Certifications & Qualifications
+
+- **Certified n8n Automation Specialist** -- **Zerocoder University** (Cert. #42810 / EN #44090, 75 academic hours, Final Project completed). Self-hosted n8n in Docker/Dokploy, AI/LLM nodes, RAG knowledge bases with document search, BPMN modeling, resilient scenarios (anti-duplicate, retries, rate limits), secure token management.
+- **Certified Vibe-Coding & Autonomous Agents Specialist** -- **Zerocoder University** (Cert. #37372 / EN #37398, 24 academic hours). Advanced AI-assisted development with Cursor, MCP (Model Context Protocol) servers, autonomous agent workflows & structured logging, Telegram Bot API, microservices deployment.
+- **Certified Cybersecurity Specialist 2.0** -- **Skillbox** (Cert. SKB0331655, 660 academic hours, Pentest Diploma). Linux administration & hardening, network security (TCP/IP, Wireshark, iptables), PostgreSQL security & encryption, SIEM Wazuh, OWASP Top 10, 152-\u0424\u0417 compliance.
 
 ---
 
