@@ -1,4 +1,4 @@
-# Hi there, I'm Igor Cyber Heart :wave:
+# Hi there, I'm Cyber Heart :wave:
 ### Senior AI Systems Architect & Lead Automation Engineer (DevSecOps)
 
 I design and build **production-grade autonomous AI agent systems, high-load Telegram Mini Apps, and resilient SaaS backends** with enterprise-grade security and zero-hallucination architectures.
